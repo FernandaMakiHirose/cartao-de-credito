@@ -6,3 +6,6 @@ Cartão de crédito glassmorphism desenvolvido com HTML e CSS. Clique [aqui](htt
 ## Requisitos
 - IDE
 - Navegador
+
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
